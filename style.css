@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color:azure
+}
+h2{
+    text-align: center;
+    color: grey;
+}
+h3{
+    text-align: center;
+    color: greenyellow;
+}
+
+.link{
+    text-align: center;
+}
+.link a{
+    color: chartreuse;
+}
+.image-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-height:500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.image-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
